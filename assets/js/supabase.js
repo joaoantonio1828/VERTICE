@@ -5,8 +5,8 @@
 
 // ⚠️  CONFIGURE SUAS CREDENCIAIS AQUI
 // Obtenha em: https://supabase.com → seu projeto → Settings → API
-const SUPABASE_URL  = 'https://ugsgtgdpoccspbchdmlz.supabase.co';
-const SUPABASE_ANON = 'sb_publishable_6bsAgCHaBJ6rXU4_bcgBig_bkF_8B2E';
+const SUPABASE_URL  = 'https://jaohqqtkpgktdxnwhger.supabase.co/rest/v1/';
+const SUPABASE_ANON = 'sb_publishable_vm3DZks2wv4X2qynTQ3DsA_8BO2-yn3';
 
 // Importação do SDK (via CDN no index.html)
 const { createClient } = window.supabase;
